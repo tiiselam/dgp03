@@ -1,0 +1,3 @@
+Solo se debe copiar el chunk en la carpeta de Microsoft GP
+
+Entrar con el usuario sa para que el chunk cree las tablas
